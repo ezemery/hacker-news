@@ -1,7 +1,7 @@
 # TEST APP
 
-You can find the project hosted here [Photos App](https://ays-test.vercel.app/).
+You can find the project hosted here [Hacker News App](https://hacker-news-rouge.vercel.app/).
 
 ## Project
 
-Using the [Unsplash API](https://unsplash.com/developers), you're to create a mini unsplash clone using the mockups and design below as a guide.
+Using the [Hacker News API](https://hackernews.api-docs.io/v0/overview/introduction), you're to create a simple [Hacker News Reader](https://news.ycombinator.com) React App
